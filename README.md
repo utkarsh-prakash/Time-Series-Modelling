@@ -1,2 +1,2 @@
 # Time-Series-Modelling
-This repository has notebooks to for end to end time series modelling
+This repository has notebooks for end to end time series modelling
